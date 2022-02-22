@@ -1,0 +1,51 @@
+{
+  "signup" : {
+    "name": "Bruno",
+    "cpf": "09834025076",
+    "email": "brunosisag@gmail.com",
+    "whatsapp": "219945786213",
+    "address": {
+      "postalcode": 26250160,
+      "street": "Rua Rita Gonçalves",
+      "number": "560",
+      "details": "Ap 101",
+      "district": "Centro",
+      "city_state": "Nova Iguaçu/RJ"
+    },
+    "delevery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv" : {
+    "name": "Bruno",
+    "cpf": "098340250AB",
+    "email": "brunosisag@gmail.com",
+    "whatsapp": "219945786213",
+    "address": {
+      "postalcode": 26250160,
+      "street": "Rua Rita Gonçalves",
+      "number": "560",
+      "details": "Ap 101",
+      "district": "Centro",
+      "city_state": "Nova Iguaçu/RJ"
+    },
+    "delevery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv" : {
+    "name": "Bruno",
+    "cpf": "09834025076",
+    "email": "brunosisaggmail.com",
+    "whatsapp": "219945786213",
+    "address": {
+      "postalcode": 26250160,
+      "street": "Rua Rita Gonçalves",
+      "number": "560",
+      "details": "Ap 101",
+      "district": "Centro",
+      "city_state": "Nova Iguaçu/RJ"
+    },
+    "delevery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+
+}
